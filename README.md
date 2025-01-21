@@ -4,6 +4,8 @@
 ### 2.Project Structure
 ### 3.Project overview
 ### 4.CODE
+### 5.Conclusion
+
 ## OBJECTIVE
 #### I GOT INTERESTED, TO KNOW HOW THESE COMPANIES ARE USING APPLICATION TRACKING SYSTEM(ATS) AND ITS WORKING. SO I DEVELOPED REAL TIME PROJECT BY USING PYTHON WITH FLASK, THAT READS THE RESUME AND TO FIND THE PARTICULAR KEYWORDS THAT COMPANY WANTS.
 
@@ -133,4 +135,6 @@ if __name__ == '__main__':
     print("Starting Flask app with Waitress...")
     serve(app, host='0.0.0.0', port=8080)
 ```
-## 
+## Conclusion
+### This project finds the keywords that company wants, which is easy to hire the talented candidates to suit in a specified roles.
+
